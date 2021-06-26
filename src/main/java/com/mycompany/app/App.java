@@ -10,8 +10,6 @@ public class App
     {
         System.out.println( "Hello World on Browser!" );
 
-        System.out.println("A NullPointerException is a drag...");
-        Object myObject = null;
-       
+             
     }
 }
